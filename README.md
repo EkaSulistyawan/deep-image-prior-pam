@@ -3,7 +3,6 @@
 ## What is this code about? 
 - Try to re-implement the Deep Image Prior (DIP) for a case in scattered undersampled data.
 - Scattered is preferable to avoid aliasing, but turns out the learned kernel might not necessarily have any connection with aliasing. It does not operate on the frequency domain
-- 
 
 ## Present Model Specs
 - Platform: Torch
