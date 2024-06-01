@@ -9,7 +9,6 @@
 ## Present Model Specs
 - Platform: Torch
 - Model: Encoder-Decoder Network
-- 
 
 ## Useful Paper
 - [https://arxiv.org/abs/1711.10925] (Original DIP Paper, applied on any image)
